@@ -1,3 +1,6 @@
 [submodule "cheef"]
 	path = cheef
 	url = https://github.com/chef/chef.git
+[submodule "rack"]
+	path = rack
+	url = git://github.com/chneukirchen/rack.git
